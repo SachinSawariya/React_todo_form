@@ -1,9 +1,9 @@
 # Todo-Form React Project
 
 ## Overview
-This Todo-Form project is developed in React JS and allows users to manage their todos easily. Users can add new todos, edit existing ones, delete todos, and update their status. The todos are also saved in the local storage of the browser, ensuring that users can access their todos even after refreshing the page or closing the browser.
+This Todo-Form project is developed in React JS and allows users to manage their todos easily. Users can add new todos, edit existing ones, delete todos, and update their status.
+The todos are also saved in the local storage of the browser, ensuring that users can access their todos even after refreshing the page or closing the browser.
 
-![Todo Form](C:\Users\Sachin Kumar\OneDrive\Pictures\Screenshots\Screenshot 2024-05-09 224400.png)
 
 
 
@@ -18,8 +18,8 @@ This Todo-Form project is developed in React JS and allows users to manage their
 ## Installation
 To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Navigate to the project directory in your terminal.
+1. Clone this repository `git clone` to your local machine.
+2. Navigate to the project directory `cd directory-name` in your terminal.
 3. Run `npm install` to install the project dependencies.
 4. Run `npm run dev` to start the development server.
 5. Open your browser and navigate to `http://localhost:5173` to view the application.
